@@ -6,7 +6,7 @@
    "source": [
     "## Preprocessing\n",
     "\n",
-    "Aufgabe 8: Preprocessing & Pipelines\n",
+    "Aufgabe 7: Preprocessing & Pipelines\n",
     "Scikit-Learn ermöglicht es mittels Pipelines, verschiedene Vorverarbeitungsschritte (Normalisierung,\n",
     "Dimensionalitätsreduktion, etc.) mit einem Klassifier zu verbinden. In dieser Aufgabe beschäftigen\n",
     "wir uns mit dem Workflow von Datenverarbeitungsschritten mittels Pipelines.\\\n",
