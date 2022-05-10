@@ -20,6 +20,8 @@ fonttools==4.33.3
 fsspec==2022.3.0
 HeapDict==1.0.1
 idna==3.3
+imbalanced-learn==0.9.0
+imblearn==0.0
 ipykernel==6.13.0
 ipython==8.2.0
 jedi==0.18.1
@@ -31,6 +33,7 @@ jupyter-core==4.10.0
 kiwisolver==1.4.2
 llvmlite==0.38.0
 locket==1.0.0
+lxml==4.8.0
 MarkupSafe==2.1.1
 matplotlib==3.5.1
 matplotlib-inline==0.1.3
